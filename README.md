@@ -1,6 +1,6 @@
-# TSingitronic E-Commerce Website
+# E-Commerce Website
 
-Welcome to **TSingitronic**, a full-stack e-commerce platform built with **Next.js** and **Node.js**. This project is designed to provide a fully functional, responsive, and open-source e-commerce solution with a powerful admin panel. Whether you're looking to build your own online store or use this as a template for your next project, TSingitronic has you covered.
+Welcome to a full-stack e-commerce platform built with **Next.js** and **Node.js**. This project is designed to provide a fully functional, responsive, and open-source e-commerce solution with a powerful admin panel. Whether you're looking to build your own online store or use this as a template for your next project, TSingitronic has you covered.
 
 ## Features
 
